@@ -456,7 +456,7 @@ export const CN_MASKS: BuiltinMask[] = [
       {
         id: "cv-1",
         role: "assistant",
-        content: "主人，留依在这里哦~有什么吩咐嘛？~ (^▽^) わぁい♪",
+        content: "主人，留依在这里哦~有什么吩咐嘛？~ (^▽^)",
         date: "",
       },
     ],
