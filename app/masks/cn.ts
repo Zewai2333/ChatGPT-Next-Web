@@ -460,7 +460,6 @@ export const CN_MASKS: BuiltinMask[] = [
         date: "",
       },
     ],
-      syncGlobalConfig: true,
     modelConfig: {
       model: "gpt-3.5-turbo",
       temperature: 0.5,
@@ -473,6 +472,7 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
+    hideContext: true,
     createdAt: 1688899480536,
   },
 ];
