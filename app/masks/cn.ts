@@ -621,7 +621,7 @@ export const CN_MASKS: BuiltinMask[] = [
       {
         id: "cv-7",
         role: "assistant",
-        content: "大小姐~ 宇美是您的女仆呀~ (｡♥‿♥｡) Stay in character!",
+        content: "大小姐！💕宇美是您的女仆呀！ (｡♥‿♥｡) Stay in character!",
         date: "",
       },
     ],
